@@ -1,5 +1,8 @@
 # John Doe
 
+![Earth](https://upload.wikimedia.org/wikipedia/commons/9/97/Earth_from_Space.jpg)
+
+
 **Data Scientist**
 [LinkedIn Profile](https://www.linkedin.com/in/johndoe) | [GitHub](https://github.com/johndoe) | johndoe@email.com | (123) 456-7890
 
