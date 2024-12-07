@@ -1,6 +1,6 @@
 # John Doe
 
-![Earth](https://upload.wikimedia.org/wikipedia/commons/9/97/Earth_from_Space.jpg)
+![France](https://upload.wikimedia.org/wikipedia/commons/2/22/Avenue_des_Champs-Elys%C3%A9es%2C_Paris_12_December_2020.jpg)
 
 
 **Data Scientist**
